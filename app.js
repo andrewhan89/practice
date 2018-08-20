@@ -16,3 +16,5 @@ function sumOfMultiple35(number) {
 
     return sum;
 }
+
+console.log(sumOfMultiple35(1000));
